@@ -1,0 +1,11 @@
+[package]
+name = "graph-spectral"
+version = "0.1.0"
+edition = "2021"
+description = "Spectral graph theory: eigenvalues, Laplacian, spectral clustering, Cheeger constant, Fiedler vector, graph partitioning"
+license = "MIT"
+repository = "https://github.com/SuperInstance/graph-spectral"
+keywords = ["graph", "spectral", "laplacian", "clustering", "algorithms"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
